@@ -2,19 +2,23 @@ Bold Words
 =============
 
 Multiple underscores in words
+=============
 
 wow_great_stuff
 do_this_and_do_that_and_another_thing.
 
 URL autolinking
+=============
 
 http://example.com
 
 Strikethrough
+=============
 
 ~~Mistaken text.~~
 
 Fenced code blocks
+=============
 
 Here's an example:
 
@@ -25,11 +29,10 @@ function test() {
 ```
 
 Syntax highlighting
+=============
 
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-# Jandbsrpg
-Turn base role playing
