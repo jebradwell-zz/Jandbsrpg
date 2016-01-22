@@ -31,7 +31,9 @@ In the words of Abraham Lincoln:
 ##Styling text
 
 *This text will be italic*
+
 **This text will be bold**
+
 **Bold Text combined with  _italic text_ using stars and underscores**
 
 ##Code formatting
