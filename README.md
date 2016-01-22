@@ -1,9 +1,7 @@
-Bold Words
+##Bold Words
 =============
 
-Header Indents
-==========
-<hr>
+##Header Indents
 #Header1
 ##Header2
 ###Header3
@@ -11,22 +9,19 @@ Header Indents
 
 ##Multiple underscores in words
 
-
 wow_great_stuff
+
 do_this_and_do_that_and_another_thing.
 
-URL autolinking
-=============
+##URL autolinking
 
 http://example.com
 
-Strikethrough
-=============
+##Strikethrough
 
 ~~Mistaken text.~~
 
-Fenced code blocks
-=============
+##Fenced code blocks
 
 Here's an example:
 
@@ -36,8 +31,7 @@ function test() {
 }
 ```
 
-Syntax highlighting
-=============
+##Syntax highlighting
 
 ```ruby
 require 'redcarpet'
