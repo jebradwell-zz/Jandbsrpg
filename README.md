@@ -3,6 +3,7 @@ Bold Words
 
 Header Indents
 ==========
+<hr>
 #Header1
 ##Header2
 ###Header3
